@@ -170,20 +170,21 @@ To add additional section, simply add additional `.education-block` elements.
 The Project section contains a number of `.project` elements that represent each of your projects. By default, it contains a 300x300 image under `.project-image` and relevant project information under `.project-info`. An example is as follows:
 
 ```HTML
-<div class="project">
-    <div class="project-image">
-        <img src="images/project.jpg" />
-    </div>
-    <!-- End .project-image -->
 
-    <div class="project-info">
-        <h3>Project Name Here</h3>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
-        </p>
-        <a href="#">View Project</a>
-    </div>
-    <!-- End .project-info -->
+<div class="project">
+  <div class="project-image">
+    <img src="images/project.jpg"/>
+  </div>
+  <!-- End .project-image -->
+
+  <div class="project-info">
+    <h3>Project Name Here</h3>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.
+    </p>
+    <a href="#">View Project</a>
+  </div>
+  <!-- End .project-info -->
 </div>
 ```
 
@@ -342,4 +343,4 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 
 ## License
 
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
+Completely free (MIT)! See [LICENSE.md](../LICENSE.md) for more.
