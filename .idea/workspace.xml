@@ -2,57 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="006472ed-5dbf-4e0f-a3d0-c6ab3be37056" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DavidLlamasResume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/images/lead-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lead-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/images/project.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/project.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/js/scripts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/animated.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/core.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/icons.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/larger.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/list.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/mixins.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/path.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/stacked.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/less/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_path.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/libs/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devportfolio-master/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +30,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/davidllamas/Documents/GitHub/dllamas01.github.io&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -96,7 +51,12 @@
       <option name="presentableId" value="Default" />
       <updated>1664979027052</updated>
       <workItem from="1664979028504" duration="352000" />
-      <workItem from="1665584046225" duration="1769000" />
+      <workItem from="1665584046225" duration="3589000" />
+      <workItem from="1665752161128" duration="3288000" />
+      <workItem from="1665755628987" duration="171000" />
+      <workItem from="1665755853364" duration="854000" />
+      <workItem from="1665757467222" duration="2777000" />
+      <workItem from="1665760263938" duration="365000" />
     </task>
     <servers />
   </component>
