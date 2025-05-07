@@ -1,211 +1,198 @@
 <!-- David Llamas -->
-<!-- HomeWork 3 -->
-<!-- CSC 2200 Fall -->
+
+
 
 <!DOCTYPE html>
-<html class="no-js" lang="en">
-
+<html lang="en">
 <head>
+    <!-- Metadata -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My Portfolio</title>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>David Llamas's Portfolio</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- External CSS -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
     <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
 </head>
-
 <body>
-    <div id="mobile-menu-open" class="shadow-large">
-        <i class="fa fa-bars" aria-hidden="true"></i>
+<!-- Mobile Menu -->
+<div id="mobile-menu-open" class="shadow-large">
+    <i class="fa fa-bars" aria-hidden="true"></i>
+</div>
+<header>
+    <div id="mobile-menu-close">
+        <span>Close</span>
+        <i class="fa fa-times" aria-hidden="true"></i>
     </div>
-    <!-- End #mobile-menu-toggle -->
-    <header>
-        <div id="mobile-menu-close">
-            <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
-        </div>
-        <ul id="menu" class="shadow">
-            <li>
-                <a href="#about">About</a>
-            </li>
-            <li>
-                <a href="#experience">Experience</a>
-            </li>
-            <li>
-                <a href="#education">Education</a>
-            </li>
-            <li>
-                <a href="#projects">Projects</a>
-            </li>
-            <li>
-                <a href="#skills">Skills</a>
-            </li>
-            <li>
-                <a href="#contact">Contact</a>
-            </li>
-        </ul>
-    </header>
-    <!-- End header -->
-
-    <div id="lead">
-        <div id="lead-content">
-            <h1>David Llamas</h1>
-            <h2>Software Engineer<br> Aurora University</h2>
-            <a href="David_LlamasV1.0.pdf" class="btn-rounded-white" download="David_LlamasV1.0.pdf">Download Resume</a>
-        </div>
-        <!-- End #lead-content -->
-
-        <div id="lead-overlay"></div>
-
-        <div id="lead-down">
-            <span>
-                <i class="fa fa-chevron-down" aria-hidden="true"></i>
-            </span>
-        </div>
-        <!-- End #lead-down -->
-    </div>
-    <!-- End #lead -->
-
-    <div id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <h2 class="heading">About Me</h2>
-                </div>
-                <div class="col-md-8">
-                    <p>
-                       I was raised and born in Montgomery, Illinois. I went to Oswego high school where I got my High School Diploma.
-                       I used to play soccer throughout my middle school years and also my high school years.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End #about -->
-
-    <div id="experience" class="background-alt">
-        <h2 class="heading">Experience</h2>
-        <div id="experience-timeline">
-            <div data-date="May 2019-present">
-                <h3>Dairy Queen</h3>
-                <h4>Manager</h4>
-                <p>
-                    Supervise and guide a team of seven employees during each night shift,
-                    fostering a collaborative and productive work environment. I am also
-                    responsible for daily cash management and accounting
-                </p>
-            </div>
-
-            <div data-date="August 2023-present">
-                <h3>Aurora University</h3>
-                <h4>Peer Advisor</h4>
-                <p>
-                    Offered valuable insights, guidance, and support to a group of incoming
-                    freshmen, helping them acclimate to the academic, social, and cultural
-                    aspects of university life.
-                </p>
-            </div>
-        </div>
-    </div>
-    <!-- End #experience -->
-
-    <div id="education">
-        <h2 class="heading">Education</h2>
-        <div class="education-block">
-            <h3>Oswego High School</h3>
-            <span class="education-date">August 2017-May 2021</span>
-            <h4>High School Diploma</h4>
-            <p>
-            </p>
-        </div>
-        <!-- End .education-block -->
-
-        <div class="education-block">
-            <h3>Aurora University</h3>
-            <span class="education-date">August 2021 - May 2025</span>
-            <h4>Bachelor of Science in Computer Science</h4>
-            <h4>Bachelor of Arts In Business Administration</h4>
-            <ul>
-                <li>
-                    I participate in the Computer Science Club
-                </li>
-            </ul>
-        </div>
-        <!-- End .education-block -->
-    </div>
-    <!-- End #education -->
-
-    <div id="projects" class="background-alt">
-        <h2 class="heading">Projects</h2>
-        <div class="container">
-            <div class="row">
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="Graph.png" alt="Graph Project" height="300px" width="300px"/>
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>Graph</h3>
-                        <p>
-                           This project is a graph example. It uses graph theory to find
-                            the routes to places from Chicago and if they have a layover.
-                        </p>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-
-                <div class="project shadow-large">
-                    <div class="project-image">
-                        <img src="BattleShip.png" alt="BattleShip" height="300px" width="300px" />
-                    </div>
-                    <!-- End .project-image -->
-                    <div class="project-info">
-                        <h3>BattleShip Game</h3>
-                        <p>
-                            This project is a website that lets users play the game that we all know and love called battleship.
-                            This game lets the user pick how many misses they can have from 1-100. After you either sink all the ships
-                            or use all your misses the game is over, and it will display the users name if the sunk all the ships or display
-                            a message that says the computer has won.
-                        </p>
-                        <a href="http://45.55.136.114/~dllamas01/battleship.html">View Project</a>
-                    </div>
-                    <!-- End .project-info -->
-                </div>
-                <!-- End .project -->
-            </div>
-        </div>
-    </div>
-    <!-- End #projects -->
-
-    <div id="skills">
-        <h2 class="heading">Skills</h2>
+    <nav id="menu" class="shadow">
         <ul>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>Java</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JSON</li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
-    </div>
-    <!-- End #skills -->
+    </nav>
+</header>
 
-    <div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-            <form method="POST" action="https://formspree.io/f/mlevnjvp">
-                <input type="hidden" name="_subject" value="Contact request from personal website" />
-                <input type="email" name="_replyto" placeholder="Your email" required>
-                <textarea name="message" placeholder="Your message" required></textarea>
-                <button type="submit">Send</button>
-            </form>
-        </div>
-        <!-- End #contact-form -->
+<!-- Lead Section -->
+<section id="lead">
+    <div id="lead-content">
+        <h1 id="typewriter"></h1>
+        <h2>Aurora University</h2>
+        <a href="Capstone_resume.docx" class="btn-rounded-white" download="Capstone_resume.docx">Download Resume</a>
+        <br><br>
+        <button id="dark-toggle" class="btn-rounded-white">🌙 Dark Mode</button>
     </div>
+
+    <div id="lead-overlay"></div>
+    <div id="lead-down">
+        <span><i class="fa fa-chevron-down" aria-hidden="true"></i></span>
+    </div>
+</section>
+
+<!-- About Section -->
+<section id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2 class="heading">About Me</h2>
+            </div>
+            <div class="col-md-8">
+                <p>
+                    Born and raised in Montgomery, Illinois, I am a well-driven and devoted software engineer with strong aspirations to make a meaningful impact in the tech industry.
+                    I earned a Bachelor of Science in Computer Science and a Bachelor of Arts in Business Administration, complemented by a minor in Mathematics. My academic background, combined with a passion for problem-solving and continuous learning, fuels my commitment to developing innovative, user-focused solutions.
+                    Outside of academics, I played soccer throughout middle and high school, where I developed discipline, teamwork, and leadership—skills I carry into every professional setting.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Experience Section -->
+<section id="experience" class="background-alt">
+    <h2 class="heading">Experience</h2>
+    <div id="experience-timeline">
+        <div data-date="May 2019-present">
+            <h3>Dairy Queen</h3>
+            <h4>Manager</h4>
+            <p>Supervise and guide a team of seven employees, responsible for daily cash management and fostering a collaborative work environment.</p>
+        </div>
+        <div data-date="August 2023-present">
+            <h3>Aurora University</h3>
+            <h4>Peer Advisor</h4>
+            <p>Guidance and support for freshmen, helping them acclimate to university life.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Education Section -->
+<section id="education">
+    <h2 class="heading">Education</h2>
+    <div class="education-block">
+        <h3>Oswego High School</h3>
+        <span class="education-date">August 2017-May 2021</span>
+        <h4>High School Diploma</h4>
+    </div>
+    <div class="education-block">
+        <h3>Aurora University</h3>
+        <span class="education-date">August 2021 - May 2025</span>
+        <h4>BS in Computer Science & BA in Business Administration</h4>
+        <p>Active member of the Computer Science Club.</p>
+    </div>
+</section>
+
+<!-- Projects Section -->
+<section id="projects" class="background-alt">
+    <h2 class="heading">Projects</h2>
+    <div class="container">
+        <div class="row">
+            <article class="project shadow-large">
+                <div class="project-image">
+                    <img src="Nba_Stats.png" alt="NBA stats Project" height="300px" width="300px"/>
+                </div>
+                <div class="project-info">
+                    <h3>NBA Player Statistics Analytics Platform</h3>
+                    <ul>
+                        <li>Collaborated with a team of 4 to develop a full-stack sports analytics web app for a client seeking advanced NBA performance insights.</li>
+                        <li>Delivered a data-driven solution using Laravel and MySQL to manage comprehensive player and team statistics across the season.</li>
+                        <li>Implemented secure user authentication using Laravel Sanctum and CSRF protection for safe login sessions.</li>
+                        <li>Built interactive dashboards with Angular.js and Chart.js to display spider graphs, projected scores, trendlines, and team comparisons.</li>
+                        <li><strong>Tech Stack:</strong> Laravel (PHP), MySQL, Angular.js, Chart.js, Sanctum, CSRF, REST API</li>
+                    </ul>
+                </div>
+            </article>
+            <article class="project shadow-large">
+                <div class="project-image">
+                    <img src="BattleShip.png" alt="BattleShip Game" height="300px" width="300px" />
+                </div>
+                <div class="project-info">
+                    <h3>Battleship Game</h3>
+                    <ul>
+                        <li>Developed a web-based Battleship game using HTML, CSS, and JavaScript.</li>
+                        <li>Implemented fully responsive design to ensure compatibility across desktop and mobile devices.</li>
+                        <li><strong>Tech Stack:</strong> JavaScript, HTML, CSS, Responsive Design</li>
+                    </ul>
+                    <a href="http://45.55.136.114/~dllamas01/battleship.html">View Project</a>
+                </div>
+            </article>
+            <article class="project shadow-large">
+                <div class="project-image">
+                    <img src="Harrys_Hardware.png" alt="Harry's Hardware Inventory" height="300px" width="300px"/>
+                </div>
+                <div class="project-info">
+                    <h3>Warehouse Inventory Trackers</h3>
+                    <ul>
+                        <li>Developed a full-stack warehouse inventory tracking system to streamline storage, retrieval, and stock level management.</li>
+                        <li>Utilized phpMyAdmin with MySQL for efficient data storage and querying of inventory records and transaction logs.</li>
+                        <li>Built a backend with Express.js and Node.js using a Model-View-Controller (MVC) architecture for organized and maintainable code.</li>
+                        <li>Designed a responsive and dynamic frontend with React.js to enable real-time updates and user-friendly interaction.</li>
+                        <li><strong>Tech Stack:</strong> React.js, Node.js, Express.js, MVC Pattern, phpMyAdmin, MySQL</li>
+                    </ul>
+
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+
+<!-- Skills Section -->
+<section id="skills">
+    <h2 class="heading">Skills</h2>
+    <ul>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JSON</li>
+        <li>React.JS</li>
+        <li>Node.JS</li>
+        <li>C++</li>
+        <li>Chart.JS</li>
+        <li>SQL</li>
+        <li>MySQL</li>
+        <li>Angular.JS</li>
+    </ul>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+    <h2>Get in Touch</h2>
+    <div id="contact-form">
+        <form method="POST" action="https://formspree.io/f/mlevnjvp">
+            <input type="hidden" name="_subject" value="Contact request from personal website" />
+            <input type="hidden" name="_next" value="http://yourwebsite.com/thank-you.html" />
+            <input type="email" name="_replyto" placeholder="Your email" required>
+            <textarea name="message" placeholder="Your message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+</section>
     <!-- End #contact -->
 
     <footer>
@@ -213,7 +200,7 @@
             <div class="row">
                 <div class="col-sm-5 copyright">
                     <p>
-                        Copyright &copy; <span id="current-year">2022</span> David Llamas
+                        Copyright &copy; <span id="current-year">2025</span> David Llamas
                     </p>
                 </div>
                 <div class="col-sm-2 top">
@@ -224,22 +211,10 @@
                 <div class="col-sm-5 social">
                     <ul>
                         <li>
-                            <a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                            <a href="https://github.com/dllamas01" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="https://stackoverflow.com/" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                            <a href="https://www.linkedin.com/in/david-llamas-298793235/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -247,7 +222,6 @@
         </div>
     </footer>
     <!-- End footer -->
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="js/scripts.min.js"></script>
 </body>

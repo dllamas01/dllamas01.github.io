@@ -34,12 +34,13 @@
 */
 
 // Define base and accent colors
-$base-color: #3498db;
+// Define base and accent colors
+$base-color: orange;  // Changed to orange
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
-$background-alt: #f2f2f5;
+$background: green;  // Changed to green
+$background-alt: orange;  // Changed to orange
 
 // Define border colors
 $border: #dcd9d9;
